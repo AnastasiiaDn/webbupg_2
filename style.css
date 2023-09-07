@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.logo{
+   color: rgb(255, 162, 0);
+   font-size: 40px;
+   padding-left: 100vh;
+   background-color: yellow;
+   
+}
+
+.img{
+   
+    padding-left: 65vh;
+    margin: 20vh;
+    border-radius: 7cm;
+
+}
